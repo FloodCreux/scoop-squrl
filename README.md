@@ -6,7 +6,7 @@ Scoop bucket for [squrl](https://github.com/FloodCreux/squrl).
 
 ```powershell
 scoop bucket add scoop-squrl https://github.com/FloodCreux/scoop-squrl
-scoop install scoop-squrl/<app-name>
+scoop install scoop-squrl/squrl
 ```
 
 ## How do I contribute new manifests?
