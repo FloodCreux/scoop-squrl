@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
   "url": "https://github.com/FloodCreux/squrl/releases/download/v0.1.2/squrl-v0.1.2-x86_64-pc-windows-msvc.zip",
-  "hash": "13802b40362234fecafb54b0b6afa4ed79b74ab6eb0cdf2b115e0a9563ded874"
+  "hash": "092969fab073a38e3d8789295adb224a7505b3010190bfc04cc6ed0b5fc08c2b"
         },
         "arm64": {
   "url": "https://github.com/FloodCreux/squrl/releases/download/v0.1.2/squrl-v0.1.2-aarch64-pc-windows-msvc.zip",
-  "hash": "91b9d890171bd18f2919367402af455b167962b5a9bbe70ad96f7e9a3a36da7b"
+  "hash": "d9fa90e049d003c5f4ae2eaae8ece42a650ae805ab9063f7789c81edfc1a1d3a"
         }
     },
     "bin": "squrl.exe",
